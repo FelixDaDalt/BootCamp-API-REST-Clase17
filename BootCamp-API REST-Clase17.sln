@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32126.317
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BootCamp-API REST-Clase17", "BootCamp-API REST-Clase17.csproj", "{6876D215-A670-4A55-88A6-6D6B6F987E21}"
+EndProject
+Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "BDApi", "..\BDApi\BDApi.sqlproj", "{F029045E-7D4C-42F8-9FD7-E6BF754FD40C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6876D215-A670-4A55-88A6-6D6B6F987E21}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6876D215-A670-4A55-88A6-6D6B6F987E21}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6876D215-A670-4A55-88A6-6D6B6F987E21}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6876D215-A670-4A55-88A6-6D6B6F987E21}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F029045E-7D4C-42F8-9FD7-E6BF754FD40C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F029045E-7D4C-42F8-9FD7-E6BF754FD40C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F029045E-7D4C-42F8-9FD7-E6BF754FD40C}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{F029045E-7D4C-42F8-9FD7-E6BF754FD40C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F029045E-7D4C-42F8-9FD7-E6BF754FD40C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F029045E-7D4C-42F8-9FD7-E6BF754FD40C}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7DE3D18B-2571-4A1F-A0C4-6BACC3D97338}
+	EndGlobalSection
+EndGlobal
